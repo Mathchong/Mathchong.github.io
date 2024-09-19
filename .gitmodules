@@ -1,0 +1,3 @@
+[submodule "ParrotsMatchingGame"]
+	path = ParrotsMatchingGame
+	url = git@github.com:Mathchong/ParrotsMatchingGame.git
